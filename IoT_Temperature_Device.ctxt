@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IoT_Temperature_Device
+comment1.params=
+comment1.target=IoT_Temperature_Device()
+comment2.params=
+comment2.target=float\ gettemperature()
+comment3.params=temperature
+comment3.target=void\ settemperature(float)
+numComments=4

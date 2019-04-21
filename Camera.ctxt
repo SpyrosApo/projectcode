@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Camera
+comment1.params=
+comment1.target=Camera()
+comment2.params=
+comment2.target=boolean\ getlive_feed()
+comment3.params=
+comment3.target=void\ setlive_feedON()
+comment4.params=
+comment4.target=void\ setlive_feedOFF()
+numComments=5

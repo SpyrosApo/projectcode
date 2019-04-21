@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Room
+comment1.params=
+comment1.target=Room()
+comment10.params=
+comment10.target=java.lang.String\ getroom_name()
+comment11.params=room_name
+comment11.target=void\ setroom_name(java.lang.String)
+comment2.params=
+comment2.target=int\ getdevicesnum()
+comment3.params=devicesnum
+comment3.target=void\ setdevicesnum(int)
+comment4.params=
+comment4.target=int\ getsensorsnum()
+comment5.params=sensorsnum
+comment5.target=void\ setsensorsnum(int)
+comment6.params=
+comment6.target=int\ getcamerasnum()
+comment7.params=camerasnum
+comment7.target=void\ setcamerasnum(int)
+comment8.params=
+comment8.target=int\ getdoors_windowsnum()
+comment9.params=doors_windowsnum
+comment9.target=void\ setdoors_windowsnum(int)
+numComments=12

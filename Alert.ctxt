@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Alert
+comment1.params=
+comment1.target=Alert()
+comment2.params=
+comment2.target=boolean\ getalarmstate()
+comment3.params=
+comment3.target=void\ setalarmON()
+comment4.params=
+comment4.target=void\ setalarmOFF()
+numComments=5
