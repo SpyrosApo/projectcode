@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=Sensor
-comment1.params=
-comment1.target=Sensor()
-comment2.params=
-comment2.target=float\ getmesurments()
-comment3.params=mesurments
-comment3.target=void\ setmesurments(float)
-numComments=4
