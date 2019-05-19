@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Door_Window
+comment1.params=
+comment1.target=Door_Window()
+comment2.params=
+comment2.target=boolean\ getlocked()
+comment3.params=
+comment3.target=void\ setlocked()
+comment4.params=
+comment4.target=void\ setunlocked()
+numComments=5

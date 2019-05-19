@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Security
+comment1.params=
+comment1.target=Security()
+comment10.params=
+comment10.target=void\ setbypassvisitor_passwordOFF()
+comment2.params=
+comment2.target=boolean\ getalert()
+comment3.params=alert
+comment3.target=void\ setalert(boolean)
+comment4.params=
+comment4.target=int\ getvisitorsnum()
+comment5.params=visitorsnum
+comment5.target=void\ setvisitorsnum(int)
+comment6.params=
+comment6.target=int\ getactive_senario()
+comment7.params=active_senario
+comment7.target=void\ setactive_senario(int)
+comment8.params=
+comment8.target=boolean\ getbypassvisitor_password()
+comment9.params=
+comment9.target=void\ setbypassvisitor_passwordON()
+numComments=11

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Mood_Senario
+comment1.params=
+comment1.target=Mood_Senario()
+comment2.params=
+comment2.target=int\ getactive_moodsenario()
+comment3.params=active_moodsenario
+comment3.target=void\ setactive_moodsenario(int)
+numComments=4
