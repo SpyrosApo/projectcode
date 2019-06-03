@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_header"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:backgroud="@color/colorAccent"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackgroundBorderless"
+    android:gravity="middle"
+    android:orientation="vertical"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    tools:targetApi="m">
+
+    <ImageView
+        android:id="@+id/nav_header_imageView"
+        android:layout_width="85dp"
+        android:layout_height="60dp"
+        android:adjustViewBounds="true"
+        android:clickable="true"
+        android:contentDescription="@string:ToDo"
+        android:src="@mipmap/ic_launcher"
+        tools:srcCompat="@android:drawable/ic_menu_sort_by_size"
+        android:focusable="true" />
+
+
+</LinearLayout>

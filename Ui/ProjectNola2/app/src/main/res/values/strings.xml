@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project Nola</string>
+    <string name="action_settings">Settings</string>
+    <string name="Anthony">Anthony</string>
+    <string name="Notifications">Notifications</string>
+    <string name="Reminders">Reminders</string>
+    <string name="Weather">Weather</string>
+    <string name="Security">nav_item_one</string>
+    <string name="Device_Schedule">nav_item_two</string>
+    <string name="DaySchedule">nav_item_three</string>
+    <string name="DoorsWindows">nav_item_one</string>
+    <string name="PersonalData">nav_item_one</string>
+    <string name="Lights">nav_item_one</string>
+    <string name="MoodScenarios">nav_item_one</string>
+    <string name="security">Security</string>
+    <string name="day_schedule">Day Schedule</string>
+    <string name="doors_windows">Doors/Windows</string>
+    <string name="personal_data">Personal Data</string>
+    <string name="lights">Lights</string>
+    <string name="mood_scenarios">Mood Scenarios</string>
+    <string name="device_schedule">Device Schedule</string>
+    <string name="todo">TODO</string>
+</resources>
