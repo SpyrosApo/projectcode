@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Device_schedule
+comment1.params=
+comment1.target=Device_schedule()
+comment2.params=table
+comment2.target=void\ click(javax.swing.JTable)
+comment3.params=
+comment3.target=void\ click()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment5.params=
+comment5.target=void\ run()
+numComments=6

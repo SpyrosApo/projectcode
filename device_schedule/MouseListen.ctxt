@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MouseListen
+comment1.params=table
+comment1.target=MouseListen(javax.swing.JTable)
+comment2.params=event
+comment2.target=void\ mouseClicked(java.awt.event.MouseEvent)
+numComments=3
